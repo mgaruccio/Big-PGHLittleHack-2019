@@ -5,18 +5,23 @@ Hi everyone! We will use this Github repository to announce more details about t
 Feel free to send a pull request and modify this document to show your engagement :)  
 
 *Confirmed attendees with a team*  
+**Raspberry Pi Hackers**
+- [Eric Nielsen](https://twitter.com/ericnipro) - team lead
+
 
 *Confirmed attendees without a team*  
+- [David Stevens](https://twitter.com/PSUStevens)
+- [Matt Crape](https://twitter.com/MattThatITGuy)
 
 *Confirmed guest judges*  
 
-Vishwa Srikaanth, VMware, vSphere Product Manager for API and tags  
-Kyle Ruddy, VMware, Senior Technical Marketing Architect automation  
-Nigel Hickey, VMware, Technical Marketing Engineer vSphere  
-Tim Davis, VMware, Native Cloud Advocate  
+[Vishwa Srikaanth](https://twitter.com/wishhva), VMware, vSphere Product Manager for API and tags  
+[Kyle Ruddy](https://twitter.com/kmruddy), VMware, Senior Technical Marketing Architect automation  
+[Nigel Hickey](https://twitter.com/vCenterNerd), VMware, Technical Marketing Engineer vSphere  
+[Tim Davis](https://twitter.com/vtimd), VMware, Native Cloud Advocate  
 
 *Support Staff*  
-Ariel Sanchez, VMware, Technical Account Manager
+[Ariel Sanchez](https://twitter.com/arielsanchezmor), VMware, Technical Account Manager
 
 *Confirmed lab gear and technology you can play with*
 
