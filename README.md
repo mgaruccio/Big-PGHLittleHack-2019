@@ -1,6 +1,6 @@
 # Big-PGHLittleHack-2019
 
-Hi everyone! We will use this Github repository to announce more details about the Big #PGHLittleHack event taking place in May 22, 2019. For full details of location and time please read (@carlcapozza)[https://twitter.com/Carlcapozza]'s blog post https://capozza.io/pghvmug-usercon-big-pghlittlehack/.  
+Hi everyone! We will use this Github repository to announce more details about the Big #PGHLittleHack event taking place in May 22, 2019. For full details of location and time please read [@carlcapozza](https://twitter.com/Carlcapozza)'s blog post https://capozza.io/pghvmug-usercon-big-pghlittlehack/.  
 
 Feel free to send a pull request and modify this document to show your engagement :)  
 
