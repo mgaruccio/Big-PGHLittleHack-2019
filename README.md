@@ -12,6 +12,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 *Confirmed attendees without a team*  
 - [David Stevens](https://twitter.com/PSUStevens)
 - [Matt Crape](https://twitter.com/MattThatITGuy)
+- [Brett Rath](https://twitter.com/pa_sre)
 
 *Confirmed guest judges - these can change and join teams etc*  
 
