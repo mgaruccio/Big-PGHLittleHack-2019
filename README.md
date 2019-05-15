@@ -13,6 +13,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [David Stevens](https://twitter.com/PSUStevens)
 - [Matt Crape](https://twitter.com/MattThatITGuy)
 - [Wes Milliron](https://twitter.com/WesMilliron)
+- [AdminWillie](https://twitter.com/adminwillie)
 
 *Confirmed guest judges - these can change and join teams etc*  
 
@@ -29,3 +30,4 @@ Feel free to send a pull request and modify this document to show your engagemen
 - Eric Nielsen will have Raspebrry Pi and sensors handy  
 - Expedient will allow people who sign up with access to their vCloud environment! And they will be in attendance to help people use it. **Send Ariel Sanchez a DM with 4 things - first name, last name, work email, company. They won't spam you, but it's needed for this generous gesture.**  
 - Ariel Sanchez will bring a 64gb NUC, Open vSwitch switch, and a VeloCloud device
+- AdminWillie has a Pi with contollers.
