@@ -18,6 +18,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Brett Rath](https://twitter.com/pa_sre)  
 - [Matt Puthoff](https://twitter.com/puthoffmatt)
 - [Dan Barr](https://twitter.com/vDanBarr)
+- [Matt Langguth](https://twitter.com/gsxesx)
 
 *Confirmed guest judges - these can change and join teams etc*  
 
