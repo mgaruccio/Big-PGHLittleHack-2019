@@ -13,6 +13,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [David Stevens](https://twitter.com/PSUStevens)
 - [Matt Crape](https://twitter.com/MattThatITGuy)
 - [Wes Milliron](https://twitter.com/WesMilliron)
+- [Matt Puthoff](https://twitter.com/puthoffmatt)
 
 *Confirmed guest judges - these can change and join teams etc*  
 
