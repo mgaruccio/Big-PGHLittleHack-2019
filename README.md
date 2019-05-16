@@ -20,6 +20,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Dan Barr](https://twitter.com/vDanBarr)
 - [Matt Langguth](https://twitter.com/gsxesx)
 - [Mark Wolfe](https://twitter.com/markwolfe412)
+- [Chris Reagle](https://twitter.com/ChrisReagle)
 
 *Confirmed guest judges - these can change and join teams etc*  
 
