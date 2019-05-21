@@ -8,6 +8,16 @@ Feel free to send a pull request and modify this document to show your engagemen
 **Raspberry Pi Hackers**
 - [Eric Nielsen](https://twitter.com/ericnipro) - team lead
 
+**Team VMUG LEADERS RULZ**
+- [Fares Khoury](https://twitter.com/khoury1701)
+- [Eric Kubla?](https://twitter.com/erickubla)
+- [Doug DeFrank](https://twitter.com/dougdefrank)
+- [Toby Meyer](https://twitter.com/tbrewmeister)
+
+**Team Expedient**
+- [Anthony Jackman](https://twitter.com/anthonydjackman)
+- twitterless Shawn Logan
+- twitterless Mike Garuccio
 
 *Confirmed attendees without a team*  
 
@@ -22,6 +32,8 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Mark Wolfe](https://twitter.com/markwolfe412)
 - [Chris Reagle](https://twitter.com/ChrisReagle)
 - [David Burton](https://twitter.com/heyvburt)
+- twitterless Kurt Byrnes  
+- twitterless Connor Byrnes  
 
 
 *Confirmed guest judges - these can change and join teams etc*  
