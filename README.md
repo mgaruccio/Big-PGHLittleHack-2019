@@ -43,6 +43,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Mark Wolfe](https://twitter.com/markwolfe412)
 - [Chris Reagle](https://twitter.com/ChrisReagle)
 - [David Burton](https://twitter.com/heyvburt)
+- [Tim Borland](https://twitter.com/borlandts)
 - twitterless Kurt Byrnes  
 - twitterless Connor Byrnes  
 
@@ -99,3 +100,4 @@ _Presentation_
 - Expedient is offering access to their [vCloud environment](https://twitter.com/anthonydjackman/status/1131031022949289984)! And they will be in attendance to help people use it. **Send Ariel Sanchez a DM with 4 things - first name, last name, work email, company. They won't spam you, but it's needed for this generous gesture.**  This is great if you don't have a clear idea of what you want to build but know you will need some infrastructure.
 - Ariel Sanchez will bring a 64gb NUC, Open vSwitch switch, and a VeloCloud device
 - AdminWillie has a Pi with contollers.
+- Tim Borland has a vRA + NSX-T environment, open to working on things involving API/Terraform/etc.
