@@ -30,6 +30,9 @@ Feel free to send a pull request and modify this document to show your engagemen
 - twitterless Mike Garuccio
 - [David Stevens](https://twitter.com/PSUStevens)
 
+**Reading about Markdown and How To Use It Team**  
+[AJ Kuftic](https://twitter.com/ajkuftic)
+
 *Confirmed attendees without a team*  
 
 
@@ -61,8 +64,6 @@ From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Gro
 *Support Staff*  
 [Ariel Sanchez](https://twitter.com/arielsanchezmor), VMware, Technical Account Manager
 
-*Heckling Section*
-[AJ Kuftic](https://twitter.com/ajkuftic)
 
 ## Scoring-tasks
 
