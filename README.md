@@ -78,6 +78,7 @@ _Social_
 * Extra points if you tag everyone in your team in that tweet!
 * Meet five people you didn't know before today and trade stickers
 * Create in the PGHLittleHack Github repo a text file with your Team name, members and project
+* Bringing beer to team members
 
 _Technical_
 
@@ -91,7 +92,7 @@ _Presentation_
 * Can detail what each team member brought to the project
 * Create a presentation 
 * Use memes in the presentation (Ariel has something special if you use cats!)
-
+* Did not use Comic Sans
 
 ## Toys
 
