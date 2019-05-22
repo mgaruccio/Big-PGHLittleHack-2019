@@ -69,20 +69,26 @@ The scoring is based on three main areas:
 - Presentation
 
 Here's the activities which will grant your team points (feel free to recommend more):
+
 _Social_
-- Naming your team
-- Sending a tweet with a picture of your team and team name to the #PGHLittleHack hashtag
-- Extra points if you tag everyone in your team in that tweet!
-- Meet five people you didn't know before today and trade stickers
-- Create in the PGHLittleHack Github repo a text file with your Team name, members and project
+
+* Naming your team
+* Sending a tweet with a picture of your team and team name to the #PGHLittleHack hashtag
+* Extra points if you tag everyone in your team in that tweet!
+* Meet five people you didn't know before today and trade stickers
+* Create in the PGHLittleHack Github repo a text file with your Team name, members and project
+
 _Technical_
-- Interact with a public API (any method)
-- Interact with a public API using a "modern language" such as Python, Ansible, Terraform, etc
+
+* Interact with a public API (any method)
+* Interact with a public API using a "modern language" such as Python, Ansible, Terraform, etc
+
 _Presentation_
-- Had a clear objective
-- Can detail what each team member brought to the project
-- Create a presentation 
-- Use memes in the presentation (Ariel has something special if you use cats!)
+
+* Had a clear objective
+* Can detail what each team member brought to the project
+* Create a presentation 
+* Use memes in the presentation (Ariel has something special if you use cats!)
 
 
 ## Toys
