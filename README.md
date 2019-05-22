@@ -31,7 +31,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [David Stevens](https://twitter.com/PSUStevens)
 
 **Reading about Markdown and How To Use It Team**  
-[AJ Kuftic](https://twitter.com/ajkuftic)
+[AJ](https://twitter.com/ajkuftic) [Whitespace](https://xkcd.com/2109/) [Kuftic](https://twitter.com/ajkuftic)
 
 *Confirmed attendees without a team*  
 
