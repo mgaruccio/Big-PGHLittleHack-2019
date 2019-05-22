@@ -19,10 +19,6 @@ Feel free to send a pull request and modify this document to show your engagemen
 **Raspberry Pi Hackers**
 - [Eric Nielsen](https://twitter.com/ericnipro)  
 
-**Team VMUG LEADERS aka the really virtual team**
-- [Eric Kubla from VeeamOn?](https://twitter.com/erickubla)
-- [Toby Meyer - from home?](https://twitter.com/tbrewmeister)
-
 **Team Pineapple**
 - [David Burton](https://twitter.com/heyvburt)
 - [@carlcapozza](https://twitter.com/Carlcapozza)
@@ -39,7 +35,7 @@ Feel free to send a pull request and modify this document to show your engagemen
 - [Wes Milliron](https://twitter.com/WesMilliron)
 - [AdminWillie](https://twitter.com/adminwillie)  
 - [Chris Reagle](https://twitter.com/ChrisReagle)
-- [Olier Nowak](https://twitter.com/olivernowak)
+- [Oliver Nowak](https://twitter.com/olivernowak)
 
 **Team Expedient aka The Godfather**
 - [Anthony Jackman](https://twitter.com/anthonydjackman)
@@ -64,6 +60,10 @@ Feel free to send a pull request and modify this document to show your engagemen
 From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Group/events/261486371/attendees/)
 
 - Matthew C (no show?)   
+
+**Team VMUG LEADERS aka the really virtual team**
+- [Eric Kubla from VeeamOn?](https://twitter.com/erickubla)
+- [Toby Meyer - from home?](https://twitter.com/tbrewmeister)
 
 *Guest judges - these can change and join teams etc*  
 
