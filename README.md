@@ -15,48 +15,59 @@ Feel free to send a pull request and modify this document to show your engagemen
 ## Teams
 
 *Confirmed attendees with a team - feel free to submit a PR to move yourself or create a new team*  
+
 **Raspberry Pi Hackers**
-- [Eric Nielsen](https://twitter.com/ericnipro) - team lead
+- [Eric Nielsen](https://twitter.com/ericnipro)  
 
-**Team VMUG LEADERS RULZ**
-- [Fares Khoury](https://twitter.com/khoury1701)
-- [Eric Kubla?](https://twitter.com/erickubla)
-- [Doug DeFrank](https://twitter.com/dougdefrank)
-- [Toby Meyer](https://twitter.com/tbrewmeister)
+**Team Pineapple**
+- [David Burton](https://twitter.com/heyvburt)
+- [@carlcapozza](https://twitter.com/Carlcapozza)
+- [Tim Borland](https://twitter.com/borlandts)
+- [Greg Bates](https://twitter.com/pensrule82)
 
-**Team Expedient**
+**Team M&M&M**
+- [Matt Debick](https://twitter.com/mdebick)
+- [Matt Langguth](https://twitter.com/gsxesx)
+- [Mark Wolfe](https://twitter.com/markwolfe412)
+
+**Giant Shreaglez - FIRST ON BOARD**
+- [Brett Rath](https://twitter.com/pa_sre)  
+- [Wes Milliron](https://twitter.com/WesMilliron)
+- [AdminWillie](https://twitter.com/adminwillie)  
+- [Chris Reagle](https://twitter.com/ChrisReagle)
+- [Oliver Nowak](https://twitter.com/olivernowak)
+
+**Team Expedient aka The Godfather**
 - [Anthony Jackman](https://twitter.com/anthonydjackman)
 - [Shawn Logan](https://twitter.com/logan2019)
 - [Mike Garuccio](https://twitter.com/mgaruccio)
+- twitterless Joe Cudzik
+- twitterless Jason Deets
+- twitterless Arun S
+
+**SuperPi**
+- [Fares Khoury](https://twitter.com/khoury1701)
+- twitterless Kurt Byrnes  
+- twitterless Connor Byrnes  
 - [David Stevens](https://twitter.com/PSUStevens)
 - [Joe Cudzik](https://twitter.com/JoeCudzik)
 - Twitterless Jason Dietz
 
 **Reading about Markdown and How To Use It Team**  
-[AJ](https://twitter.com/ajkuftic) [Whitespace](https://xkcd.com/2109/) [Kuftic](https://twitter.com/ajkuftic)
-
-*Confirmed attendees without a team*  
-
-
+- [AJ](https://twitter.com/ajkuftic) [Whitespace](https://xkcd.com/2109/) [Kuftic](https://twitter.com/ajkuftic)  
 - [Matt Crape](https://twitter.com/MattThatITGuy)
-- [Wes Milliron](https://twitter.com/WesMilliron)
-- [AdminWillie](https://twitter.com/adminwillie)  
-- [Brett Rath](https://twitter.com/pa_sre)  
-- [Matt Puthoff](https://twitter.com/puthoffmatt)
 - [Dan Barr](https://twitter.com/vDanBarr)
-- [Matt Langguth](https://twitter.com/gsxesx)
-- [Mark Wolfe](https://twitter.com/markwolfe412)
-- [Chris Reagle](https://twitter.com/ChrisReagle)
-- [David Burton](https://twitter.com/heyvburt)
-- [Tim Borland](https://twitter.com/borlandts)
-- twitterless Kurt Byrnes  
-- twitterless Connor Byrnes  
+- [Doug DeFrank](https://twitter.com/dougdefrank)
 
 From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Group/events/261486371/attendees/)
-- Arun S
-- Matthew C
 
-*Confirmed guest judges - these can change and join teams etc*  
+- Matthew C (no show?)   
+
+**Team VMUG LEADERS aka the really virtual team**
+- [Eric Kubla from VeeamOn?](https://twitter.com/erickubla)
+- [Toby Meyer - from home?](https://twitter.com/tbrewmeister)
+
+*Guest judges - these can change and join teams etc*  
 
 [Vishwa Srikaanth](https://twitter.com/wishhva), VMware, vSphere Product Manager for API and tags  
 [Kyle Ruddy](https://twitter.com/kmruddy), VMware, Senior Technical Marketing Architect automation  
@@ -65,7 +76,7 @@ From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Gro
 
 *Support Staff*  
 [Ariel Sanchez](https://twitter.com/arielsanchezmor), VMware, Technical Account Manager
-
+- [Matt Puthoff](https://twitter.com/puthoffmatt), VMware, Technical Account Manager
 
 ## Scoring-tasks
 
