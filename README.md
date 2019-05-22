@@ -1,8 +1,18 @@
 # Big-PGHLittleHack-2019
 
+# Table of Contents
+1. [Introduction](#Introduction)
+2. [Teams](#Teams)
+3. [Scoring Tasks](#Scoring-tasks)
+4. [Toys](#Toys)
+
+## Introduction
+
 Hi everyone! We will use this Github repository to announce more details about the Big [#PGHLittleHack](https://twitter.com/search?f=tweets&vertical=default&q=%23pghlittlehack) event taking place in May 22, 2019. For full details of location and time please read [@carlcapozza](https://twitter.com/Carlcapozza)'s blog post https://capozza.io/pghvmug-usercon-big-pghlittlehack/.  
 
 Feel free to send a pull request and modify this document to show your engagement :)  
+
+## Teams
 
 *Confirmed attendees with a team - feel free to submit a PR to move yourself or create a new team*  
 **Raspberry Pi Hackers**
@@ -40,8 +50,6 @@ From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Gro
 - Arun S
 - Matthew C
 
-
-
 *Confirmed guest judges - these can change and join teams etc*  
 
 [Vishwa Srikaanth](https://twitter.com/wishhva), VMware, vSphere Product Manager for API and tags  
@@ -52,9 +60,36 @@ From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Gro
 *Support Staff*  
 [Ariel Sanchez](https://twitter.com/arielsanchezmor), VMware, Technical Account Manager
 
+
+## Scoring-tasks
+
+The scoring is based on three main areas: 
+- Team engagement
+- Technical chops
+- Presentation
+
+Here's the activities which will grant your team points (feel free to recommend more):
+_Social_
+- Naming your team
+- Sending a tweet with a picture of your team and team name to the #PGHLittleHack hashtag
+- Extra points if you tag everyone in your team in that tweet!
+- Meet five people you didn't know before today and trade stickers
+- Create in the PGHLittleHack Github repo a text file with your Team name, members and project
+_Technical_
+- Interact with a public API (any method)
+- Interact with a public API using a "modern language" such as Python, Ansible, Terraform, etc
+_Presentation_
+- Had a clear objective
+- Can detail what each team member brought to the project
+- Create a presentation 
+- Use memes in the presentation (Ariel has something special if you use cats!)
+
+
+## Toys
+
 *Confirmed lab gear and technology you can play with*
 
 - Eric Nielsen will have Raspebrry Pi and sensors handy  
-- Expedient will allow people who sign up with access to their vCloud environment! And they will be in attendance to help people use it. **Send Ariel Sanchez a DM with 4 things - first name, last name, work email, company. They won't spam you, but it's needed for this generous gesture.**  This is great if you don't have a clear idea of what you want to build but know you will need some infrastructure.
+- Expedient is offering access to their [vCloud environment](https://twitter.com/anthonydjackman/status/1131031022949289984)! And they will be in attendance to help people use it. **Send Ariel Sanchez a DM with 4 things - first name, last name, work email, company. They won't spam you, but it's needed for this generous gesture.**  This is great if you don't have a clear idea of what you want to build but know you will need some infrastructure.
 - Ariel Sanchez will bring a 64gb NUC, Open vSwitch switch, and a VeloCloud device
 - AdminWillie has a Pi with contollers.
