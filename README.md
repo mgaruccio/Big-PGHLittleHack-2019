@@ -61,6 +61,8 @@ From the [Meetup page](https://www.meetup.com/PGHVMUG-Pittsburgh-VMware-User-Gro
 *Support Staff*  
 [Ariel Sanchez](https://twitter.com/arielsanchezmor), VMware, Technical Account Manager
 
+*Heckling Section*
+[AJ Kuftic] (https://twitter.com/ajkuftic)
 
 ## Scoring-tasks
 
