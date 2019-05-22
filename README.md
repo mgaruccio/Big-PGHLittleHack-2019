@@ -83,6 +83,7 @@ _Technical_
 
 * Interact with a public API (any method)
 * Interact with a public API using a "modern language" such as Python, Ansible, Terraform, etc
+* Create a sub-repository or team project page and add your code
 
 _Presentation_
 
